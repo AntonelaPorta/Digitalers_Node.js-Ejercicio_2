@@ -1,0 +1,59 @@
+* {
+    font-family: 'Lucida Sans',
+    'Lucida Sans Regular',
+    'Lucida Grande',
+    'Lucida Sans Unicode',
+    Verdana,
+    sans-serif;
+}
+
+.imagen_logo img{
+    width: 400px;
+    
+    display: flex;
+    margin: auto;
+}
+
+h1{
+    color: #B95EB0;
+    font-size: 55px;
+    font-weight: lighter;
+    text-align: center;
+    letter-spacing: 15px ;
+}
+
+h2{
+    font-size: 25px;
+    color: #B95EB0;
+    font-weight: lighter;
+    letter-spacing: 10px;
+}
+
+
+
+p{
+    font-size: 16px;
+    color: #4B88C0;
+}
+
+.hotel_pop img{
+    width: 500px;
+    float: right;
+    margin-left: 10px;
+}
+
+.hotel_beach img{
+    width: 500px;
+    float: left;
+    margin-right: 10px;
+}
+
+.hotel_animal img {
+    width: 500px;
+    float: right;
+    margin-left: 10px;
+}
+
+.mickey img{
+    width: 100%;
+}
